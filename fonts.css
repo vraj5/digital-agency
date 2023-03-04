@@ -1,0 +1,27 @@
+/* mandali-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Mandali';
+    font-style: normal;
+    font-weight: 400;
+    src: url('mandali-v14-latin-regular.eot'); /* IE9 Compat Modes */
+    src: url('mandali-v14-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('mandali-v14-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('mandali-v14-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('mandali-v14-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('mandali-v14-latin-regular.svg#Mandali') format('svg'); /* Legacy iOS */
+  }
+
+  /* poppins-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    src: url('poppins-v20-latin-regular.eot'); /* IE9 Compat Modes */
+    src: url('poppins-v20-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('poppins-v20-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('poppins-v20-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('poppins-v20-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('poppins-v20-latin-regular.svg#Poppins') format('svg'); /* Legacy iOS */
+  }
